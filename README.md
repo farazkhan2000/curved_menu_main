@@ -1,34 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎨 Animated Sidebar Menu (Next.js)
 
-## Getting Started
+A simple and clean **animated sidebar menu** built with **Next.js**.  
+This project was created purely for practice — focusing on smooth animations, layout structure, and component organization.
 
-First, run the development server:
+## ⚡ Features
+
+- 🧭 Animated sidebar navigation  
+- 🎞️ Smooth open/close transitions  
+- 📁 Clean and reusable component structure  
+- ⚛️ Built with the Next.js App Router  
+
+## 🚀 Getting Started
+
+Install dependencies:
 
 ```bash
-npm run dev
+npm install
 # or
-yarn dev
+yarn
 # or
-pnpm dev
+pnpm install
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🤝 Contributing
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This project is open to contributions. Feel free to fork the repo and create a pull request if you'd like to improve it.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 🧑‍💻 Author
 
-To learn more about Next.js, take a look at the following resources:
+**Faraz Khan**  
+Freelance Web Developer  
+[Email](mailto:f.skipper14@gmail.com)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🪪 License
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is open-source and available under the [MIT License](LICENSE).
