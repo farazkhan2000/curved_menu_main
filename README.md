@@ -1,7 +1,6 @@
 # 🎨 Animated Sidebar Menu (Next.js)
 
-A simple and clean **animated sidebar menu** built with **Next.js**.  
-This project was created purely for practice — focusing on smooth animations, layout structure, and component organization.
+A simple and clean **animated sidebar menu** built with **Next.js**. This project was created purely for practice - focusing on smooth animations, layout structure, and component organization.
 
 ## ⚡ Features
 
